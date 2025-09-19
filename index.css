@@ -58,7 +58,7 @@ button{
 }
 
 .color-item{
-    min-height: 80vh;
+    min-height: 70vh;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
